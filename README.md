@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+*Photographer, Dreamweaver, Visionary, Webmaster, plus Software Engineer*
+
+## Prevviously
+- Kyan: Senior Developer https://kyan.com
+- Heroku: Senior Engineer https:heroku.com
+
+
+
 <!--
 **phil/phil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
