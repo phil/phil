@@ -2,14 +2,23 @@
 
 *Photographer, Dreamweaver, Visionary, Webmaster, plus Software Engineer*
 
-## Prevviously
+## Previously:
 ### Kyan: Senior Developer 
 https://kyan.com
 
 ### Heroku: Senior Engineer
 https://heroku.com
 
-
+- https://facebook.com/phil.balchin
+- https://instagram.com/maniacalrobot
+- https://last.fm/users/maniacalrobot
+- https://picfair.com/maniacalrobot
+- https://maniacalrobot.tumblr.com
+- https://twitter.com/maniacalrobot
+- https://github.com/phil
+- https://stackoverflow.com/users/1200043/maniacalrobot
+- https://linkedin.com/pub/phil-balchin/31/443/9bb
+- https://trailblazer.me/id/pbalchin
 
 <!--
 **phil/phil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
