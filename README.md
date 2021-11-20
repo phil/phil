@@ -3,8 +3,11 @@
 *Photographer, Dreamweaver, Visionary, Webmaster, plus Software Engineer*
 
 ## Prevviously
-- Kyan: Senior Developer https://kyan.com
-- Heroku: Senior Engineer https:heroku.com
+### Kyan: Senior Developer 
+https://kyan.com
+
+### Heroku: Senior Engineer
+https://heroku.com
 
 
 
