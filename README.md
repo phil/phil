@@ -2,6 +2,10 @@
 
 *Photographer, Dreamweaver, Visionary, Webmaster, plus Software Engineer*
 
+## Currently:
+### Zendesk: Senior Engineer
+https://zendesk.com
+
 ## Previously:
 ### Kyan: Senior Developer 
 https://kyan.com
