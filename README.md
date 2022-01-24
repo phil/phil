@@ -7,11 +7,14 @@
 https://zendesk.com
 
 ## Previously:
-### Kyan: Senior Developer 
-https://kyan.com
 
 ### Heroku: Senior Engineer
 https://heroku.com
+
+### Kyan: Senior Developer 
+https://kyan.com
+
+## Other Profiles
 
 - https://facebook.com/phil.balchin
 - https://instagram.com/maniacalrobot
