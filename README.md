@@ -16,6 +16,17 @@ https://heroku.com
 ### Kyan: Senior Developer 
 https://kyan.com
 
+## Open Source Projects
+
+## Doom Maps
+
+I started building Dom maps back in the 1990s, then had a 20 year hiatus, and have recentyl started to enjoy the process again.
+
+- https://github.com/phil/the-gun-turret
+- https://github.com/phil/the-halls-of-aethelwulf
+- https://github.com/phil/ISLE_OF_DEATH
+- https://github.com/phil/treatment-centre
+
 ## Other Profiles
 
 - https://facebook.com/phil.balchin
