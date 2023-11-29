@@ -18,7 +18,8 @@ https://kyan.com
 
 ## Open Source Projects
 
-- https://github.com/phil/rjq
+- https://github.com/phil/rjq - jq, but with Ruby
+- https://github.com/phil/minitask - CLI todo list, writen in ruby. Proof of concept with built in self updating and storage
 
 ## Doom Maps
 
