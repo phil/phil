@@ -18,9 +18,11 @@ https://kyan.com
 
 ## Open Source Projects
 
+- https://github.com/phil/rjq
+
 ## Doom Maps
 
-I started building Dom maps back in the 1990s, then had a 20 year hiatus, and have recentyl started to enjoy the process again.
+I started building Dom maps back in the 1990s, then had a 20 year hiatus, and have recently started to enjoy the process again.
 
 - https://github.com/phil/the-gun-turret
 - https://github.com/phil/the-halls-of-aethelwulf
