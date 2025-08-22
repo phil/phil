@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*Photographer, Dreamweaver, Visionary, Webmaster, plus Software Engineer*
+*Photographer, Dreamweaver, Visionary, Webmaster, plus Software Engineer, based in Guildford UK.*
 
 https://maniacalrobot.co.uk
 
