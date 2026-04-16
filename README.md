@@ -5,7 +5,7 @@
 https://maniacalrobot.co.uk
 
 ## Currently:
-### Zendesk: (Tech Lead) Senior Engineer
+### Zendesk: (Tech Lead) Staff Engineer
 https://zendesk.com
 
 ## Previously:
@@ -18,7 +18,9 @@ https://kyan.com
 
 ## Open Source Projects
 
+- https://github.com/phil/flint - A task list TUI based on Obsidian notes
 - https://github.com/phil/tmux-devcontainers - Make managing Devcontainers in Tmux easy.
+- https://github.com/phil/tmux-lattice - better pane layouts for tmux
 - https://github.com/phil/rjq - jq, but with Ruby
 - https://github.com/phil/minitask - CLI todo list, writen in ruby. Proof of concept with built in self updating and storage, all in a single ruby file.
 
